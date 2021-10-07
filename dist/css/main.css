@@ -18,7 +18,16 @@ h1, h2, h3 {
 header {
   background-color: #05c;
   color: #fff;
-  height: 80px;
+  height: 120px;
+  padding: 10px 0 10px 24px;
+}
+
+#header-box h2 {
+  color: #fff;
+}
+
+#menu li {
+  display: inline;
 }
 
 #content-box {

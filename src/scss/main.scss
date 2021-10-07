@@ -19,6 +19,13 @@ header {
     background-color: $thema-color;
     color: #fff;
     height: $header-height;
+    padding: 10px 0 10px 24px;
+}
+#header-box h2 {
+    color: #fff;
+}
+#menu li {
+    display: inline;
 }
 #content-box {
     width: $main-size;
